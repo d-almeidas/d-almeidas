@@ -5,7 +5,9 @@
 🎓 Prestes a iniciar Ciência da Computação.
 
 💻 Atualmente estudando:
-- Python
+- Python     
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+          
 - Git
 
 📚 Em breve aprendendo:
