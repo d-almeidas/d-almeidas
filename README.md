@@ -29,3 +29,8 @@ Improve my programming skills, learn new languages and build projects to grow in
 <img src="marquee.svg" alt="Banner">
 
 <p align="center">
+<p align="center">
+  <img src="https://cyber.dabamos.de/88x31/github.gif">
+  <img src="https://cyber.dabamos.de/88x31/119.gif">
+  <img src="https://cyber.dabamos.de/88x31/78.gif">
+</p>
