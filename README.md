@@ -19,4 +19,4 @@ Desenvolver minhas habilidades como programador, aprender novas linguagens e con
 ## Contato
 - neaa01111@gmail.com
 - ig: d.aires._
-![Banner](./assets/marquee.svg)
+<img src="./assets/marquee.svg" alt="Banner" width="100%">
