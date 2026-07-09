@@ -20,3 +20,8 @@ Desenvolver minhas habilidades como programador, aprender novas linguagens e con
 - neaa01111@gmail.com
 - ig: d.aires._
 <img src="marquee.svg" alt="Banner">
+
+<p align="center">
+  <img src="https://cyber.dabamos.de/88x31/github.gif">
+  <img src="https://cyber.dabamos.de/88x31/linuxnow.jpg">
+</p>
