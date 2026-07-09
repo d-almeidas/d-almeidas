@@ -9,8 +9,9 @@
 - <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 📚 Em breve aprendendo:
-- JavaScript
-- SQL
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white">
 
 🚀 Objetivo:
 Desenvolver minhas habilidades como programador, aprender novas linguagens e construir projetos para evoluir na área de desenvolvimento de software.
