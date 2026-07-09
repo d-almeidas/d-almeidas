@@ -25,7 +25,7 @@ Improve my programming skills, learn new languages and build projects to grow in
 
 - neaa01111@gmail.com
 - Instagram: d.aires._
-
+<img src="marquee.svg" alt="Banner">
 <p align="center">
 <p align="center">
   <img src="https://cyber.dabamos.de/88x31/github.gif">
