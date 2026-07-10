@@ -23,10 +23,6 @@ Improve my programming skills, learn new languages and build projects to grow in
 
 ## Contact
 
-<a href="https://instagram.com/d.aires._">
-    <img src="https://img.shields.io/badge/@d.aires._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
 <p align="center">
   ✦ find me on ✦<br>
   <a href="https://instagram.com/d.aires._">
