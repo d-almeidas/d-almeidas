@@ -26,8 +26,6 @@ Improve my programming skills, learn new languages and build projects to grow in
   <a href="https://instagram.com/d.aires._">
     <img src="https://blinkies.cafe/b/display/0199-instagramlogo.gif" alt="Instagram">
   </a>
-  <br>
-  @d.aires._
 </p>
 
 <img src="marquee.svg" alt="Banner">
