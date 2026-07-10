@@ -23,8 +23,14 @@ Improve my programming skills, learn new languages and build projects to grow in
 
 ## Contact
 
-- neaa01111@gmail.com
-- Instagram: d.aires._
+<a href="https://instagram.com/seu_usuario">
+  <img src="./assets/instagram.gif">
+</a>
+
+<a href="mailto:seuemail@gmail.com">
+  <img src="./assets/email.gif">
+</a>
+
 <img src="marquee.svg" alt="Banner">
 <p align="center">
 <p align="center">
