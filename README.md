@@ -30,9 +30,6 @@ Build a solid foundation in software development to work as a **Fullstack Develo
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=d-almeidas&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-almeidas&theme=radical" alt="GitHub Streak" />
