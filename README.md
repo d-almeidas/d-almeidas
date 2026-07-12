@@ -53,3 +53,7 @@ Build a solid foundation in software development to work as a **Fullstack Develo
 <p align="center">
   <img src="marquee.svg" alt="Banner">
 </p>
+  <img src="https://cyber.dabamos.de/88x31/github.gif">
+  <img src="https://cyber.dabamos.de/88x31/119.gif">
+  <img src="https://cyber.dabamos.de/88x31/78.gif">
+</p>
