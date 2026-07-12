@@ -31,6 +31,7 @@ Build a solid foundation in software development to work as a **Fullstack Develo
 
 ### 📊 GitHub Stats
 
+<img src="https://cyber.dabamos.de/88x31/github.gif">
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-almeidas&theme=radical" alt="GitHub Streak" />
 </p>
