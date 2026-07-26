@@ -6,7 +6,7 @@
 
 <p align="center">
   🎓 Preparing to start a Computer Science degree — studying ahead to arrive with a strong foundation<br>
-  🚀 Aspiring <b>Fullstack Developer</b> focused on Web & AI
+     Aspiring <b>Fullstack Developer</b> focused on Web & AI
 </p>
 
 ---
