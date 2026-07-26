@@ -6,7 +6,7 @@
 
 <p align="center">
   🎓 Me preparando para começar a faculdade de Ciência da Computação — estudando antes para chegar com bagagem<br>
-  🚀 Futuro <b>Desenvolvedor Fullstack</b> com foco em Web & IA
+     Futuro <b>Desenvolvedor Fullstack</b> com foco em Web & IA
 </p>
 
 ---
