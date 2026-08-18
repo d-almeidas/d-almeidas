@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  🎓 Me preparando para iniciar a faculdade de Ciência da Computação — estudando antes para chegar com uma boa base<br>
-     Aspirante a <b>Analista de Dados</b>, com foco em transformar dados em insights
+   Me preparando para iniciar a faculdade de Ciência da Computação — estudando antes para chegar com uma boa base<br>
+    Aspirante a <b>Analista de Dados</b>, com foco em transformar dados em insights
 </p>
 
 ---
