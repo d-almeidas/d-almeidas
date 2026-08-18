@@ -1,12 +1,12 @@
 <h1 align="center">Olá, eu sou o Daniel 👋</h1>
 
 <p align="center">
-  <img src="welcome.png" alt="Welcome" width="100%">
+  <img src="welcome.png" alt="Bem-vindo" width="100%">
 </p>
 
 <p align="center">
-  🎓 Me preparando para começar a faculdade de Ciência da Computação — estudando antes para chegar com bagagem<br>
-     Futuro <b>Desenvolvedor Fullstack</b> com foco em Web & IA
+  🎓 Me preparando para iniciar a faculdade de Ciência da Computação — estudando antes para chegar com uma boa base<br>
+     Aspirante a <b>Analista de Dados</b>, com foco em transformar dados em insights
 </p>
 
 ---
@@ -14,19 +14,23 @@
 ### 💻 Estudando atualmente
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/POO-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-<p/>
+  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
 ---
 
 ### 📚 Próximos passos
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ### 🎯 Objetivo
-Construir uma base sólida em desenvolvimento de software para trabalhar como **Desenvolvedor Fullstack**, unindo tecnologias web modernas com **aplicações baseadas em IA**. No momento, o foco é fortalecer os fundamentos de programação antes de avançar para frameworks e projetos reais.
+Construir uma base sólida em análise de dados — da coleta e limpeza até a análise estatística e visualização — combinando **Python (Pandas, NumPy)**, **SQL** e ferramentas de BI para transformar dados brutos em insights que apoiem a tomada de decisão. No momento, o foco é fortalecer a lógica de programação e a manipulação de dados antes de avançar para visualização, estatística e projetos reais.
 
 ---
 
@@ -34,6 +38,7 @@ Construir uma base sólida em desenvolvimento de software para trabalhar como **
 <p align="center">
   <img src="https://cyber.dabamos.de/88x31/github.gif" alt="GitHub Badge">
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-almeidas&theme=radical" alt="GitHub Streak" />
 </p>
