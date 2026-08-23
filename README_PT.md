@@ -32,7 +32,7 @@
 </p>
 
 ### 🎯 Objetivo
-Construir uma base sólida em engenharia de dados — desde a coleta de dados via APIs, passando pela construção e orquestração de pipelines ETL/ELT com ferramentas como o **Airflow**, containerização de workflows com **Docker**, até a modelagem de dados em **PostgreSQL**. Combinando **Python**, **SQL** e infraestrutura de dados moderna para projetar pipelines que transformam dados brutos e desorganizados em datasets confiáveis e estruturados, prontos para análise. Atualmente focado em fortalecer a programação, POO e SQL antes de avançar para APIs, orquestração de pipelines e containerização.
+Focado em me especializar na área de engenharia de dados, buscando crescer profissionalmente e construir uma base sólida em Python, SQL/PostgreSQL, APIs, pipelines ETL/ELT e ferramentas como Airflow e Docker. Atualmente fortalecendo programação, POO e SQL, para em seguida avançar para APIs, orquestração de pipelines e containerização.
 
 ---
 
