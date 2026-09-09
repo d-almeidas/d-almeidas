@@ -11,16 +11,23 @@
 
 ---
 
-### 💻 Currently studying
+### Languages I already know
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-### 📚 Coming up next
+### Currently studying
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+---
+
+### Coming up next
 <p align="left">
   <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/ETL/ELT-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white" />
@@ -31,7 +38,7 @@
 </p>
 
 ### 🎯 Goal
-Focused on specializing in data engineering, aiming to grow professionally and build a solid foundation in **Python**, **SQL/PostgreSQL**, **APIs**, **ETL/ELT** pipelines, and tools like **Airflow** and **Docker**. Currently strengthening programming, OOP, and SQL, before moving on to APIs, pipeline orchestration, and containerization.
+Focused on specializing in data engineering, aiming to grow professionally and build a solid foundation in **Python**, **SQL/PostgreSQL**, **APIs**, **ETL/ELT** pipelines, and tools like **Airflow** and **Docker**. Currently strengthening SQL, before moving on to APIs, pipeline orchestration, and containerization.
 
 ---
 
