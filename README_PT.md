@@ -11,7 +11,7 @@
 
 ---
 
-### ✅ Linguagens que já sei
+### Linguagens que já sei
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/POO-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
@@ -19,7 +19,7 @@
 
 ---
 
-### 💻 Estudando atualmente
+### Estudando atualmente
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -27,7 +27,7 @@
 
 ---
 
-### 📚 Próximos passos
+### Próximos passos
 <p align="left">
   <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/ETL/ELT-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white" />
