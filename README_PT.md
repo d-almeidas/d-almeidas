@@ -1,21 +1,28 @@
-<h1 align="center">Olá, eu sou o Daniel 👋</h1>
+<h1 align="center">Oi, eu sou o Daniel 👋</h1>
 
 <p align="center">
   <img src="welcome.png" alt="Welcome" width="100%">
 </p>
 
 <p align="center">
-   Me preparando para iniciar a faculdade de Ciência da Computação — estudando antes para chegar com uma base sólida<br>
+   Me preparando para começar a faculdade de Ciência da Computação — estudando antes para chegar com uma base sólida<br>
     Aspirante a <b>Engenheiro de Dados</b>, focado em construir pipelines de dados confiáveis
+</p>
+
+---
+
+### ✅ Linguagens que já sei
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/POO-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
 ### 💻 Estudando atualmente
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ---
@@ -31,11 +38,11 @@
 </p>
 
 ### 🎯 Objetivo
-Focado em me especializar na área de engenharia de dados, buscando crescer profissionalmente e construir uma base sólida em Python, SQL/PostgreSQL, APIs, pipelines ETL/ELT e ferramentas como Airflow e Docker. Atualmente fortalecendo programação, POO e SQL, para em seguida avançar para APIs, orquestração de pipelines e containerização.
+Focado em me especializar em engenharia de dados, buscando crescimento profissional e uma base sólida em **Python**, **SQL/PostgreSQL**, **APIs**, pipelines de **ETL/ELT** e ferramentas como **Airflow** e **Docker**. No momento, estou fortalecendo meus conhecimentos em SQL, antes de avançar para APIs, orquestração de pipelines e containerização.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 <p align="center">
   <img src="https://cyber.dabamos.de/88x31/github.gif" alt="GitHub Badge">
 </p>
