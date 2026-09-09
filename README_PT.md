@@ -11,7 +11,7 @@
 
 ---
 
-### Linguagens que já sei
+### Linguagens estudadas
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/POO-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
