@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### 🎯 Goal
+### Goal
 Focused on specializing in data engineering, aiming to grow professionally and build a solid foundation in **Python**, **SQL/PostgreSQL**, **APIs**, **ETL/ELT** pipelines, and tools like **Airflow** and **Docker**. Currently strengthening SQL, before moving on to APIs, pipeline orchestration, and containerization.
 
 ---
