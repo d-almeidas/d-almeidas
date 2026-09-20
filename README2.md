@@ -1,18 +1,8 @@
-<!-- ============================================================
-  README DE PERFIL — troque tudo que estiver em MAIÚSCULAS
-  SEU-USUARIO  -> seu usuário do GitHub
-  SEU NOME     -> seu nome
-  SEU-EMAIL    -> seu e-mail
-  SEU-INSTAGRAM / SEU-LINKEDIN -> seus usuários
-  Dica: este arquivo só aparece no perfil se estiver em um
-  repositório PÚBLICO com o MESMO nome do seu usuário.
-============================================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff4d94&height=200&section=header&text=SEU%20NOME&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Programa%C3%A7%C3%A3o%20%E2%80%A2%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Dados&descAlignY=58&descSize=18" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff4d94&height=200&section=header&text=Daniel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspirante%20a%20Engenheiro%20de%20Dados%20%E2%80%A2%20Python%20%E2%80%A2%20SQL&descAlignY=58&descSize=18" alt="banner" />
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=VISITAS%20AO%20PERFIL&color=ff4d94&style=flat-square" alt="visitas ao perfil" />
+<img src="https://komarev.com/ghpvc/?username=d-almeidas&label=VISITAS%20AO%20PERFIL&color=ff4d94&style=flat-square" alt="visitas ao perfil" />
 
 </div>
 
@@ -20,18 +10,19 @@
 
 ## ✦ um pouco sobre mim ✦
 
-Sou estudante de programação, com foco em **Python, SQL e dados**. Me preparo desde já para entrar na faculdade em **2027**, construindo uma base sólida antes de chegar lá.
+Oi, eu sou o **Daniel** 👋
 
-Gosto de entender o problema primeiro e só depois escrever o código. Estudo com prática: cada conceito novo vira exercício, e cada exercício vai para o GitHub.
+Estou me preparando para começar a faculdade de **Ciência da Computação**, estudando antes para chegar com uma base sólida. Sou aspirante a **Engenheiro de Dados**, focado em construir pipelines de dados confiáveis.
 
 **Meu foco atual:**
 
 - 🐍 Python: programação orientada a objetos (herança, abstração, classes)
 - 🗄️ SQL: consultas, agregações, JOINs e modelagem, usando SQLite
 - 🔀 Versionamento com Git e GitHub
-- 📊 Excel como apoio para análise de dados
 
-**Para onde estou caminhando:** engenharia de dados (SQL, PostgreSQL, APIs, ETL/ELT, Docker e Airflow), com interesse também em desenvolvimento web e IA.
+### 🎯 Objetivo
+
+Me especializar em engenharia de dados, buscando crescimento profissional e uma base sólida em **Python**, **SQL/PostgreSQL**, **APIs**, pipelines de **ETL/ELT** e ferramentas como **Airflow** e **Docker**. No momento, estou fortalecendo meus conhecimentos em SQL, antes de avançar para APIs, orquestração de pipelines e containerização.
 
 ---
 
@@ -64,7 +55,7 @@ Gosto de entender o problema primeiro e só depois escrever o código. Estudo co
 <tr>
 <td width="50%" valign="top">
 
-### 💗 Programação
+###  Programação
 
 ```
 Python      ██████░░░░  praticando
@@ -76,7 +67,7 @@ APIs        ░░░░░░░░░░  em breve
 </td>
 <td width="50%" valign="top">
 
-### 🤍 Dados
+###  Dados
 
 ```
 SQL         ███░░░░░░░  aprendendo
@@ -89,9 +80,8 @@ Pandas      ░░░░░░░░░░  em breve
 </tr>
 </table>
 
-### 🚀 Próximos passos (roadmap de estudos)
+### - Próximos passos (roadmap de estudos)
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -100,16 +90,6 @@ Pandas      ░░░░░░░░░░  em breve
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
 `ETL / ELT` · `Pipelines de dados` · `Docker` · `Airflow`
-
----
-
-## ⚙️ FERRAMENTAS QUE FAZEM PARTE DO MEU DIA
-
-<div align="center">
-
-`Python` · `SQL` · `Git` · `GitHub` · `VS Code`
-
-</div>
 
 ---
 
@@ -124,38 +104,20 @@ Pandas      ░░░░░░░░░░  em breve
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🐍 Python Studies
-`Python` `Exercícios`
-
-Mais de 115 exercícios do curso de Python do Gustavo Guanabara, organizados em pastas por tópico: condições, loops, listas, tuplas, dicionários e funções.
-
-[🔗 Ver repositório](https://github.com/SEU-USUARIO/python-studies)
-
-</td>
-<td width="50%" valign="top">
-
+  
 ### 🧱 Python POO Studies
 `Python` `POO`
 
 Exercícios de orientação a objetos com herança, abstração e classes. Inclui um **RPG de turnos** no terminal (Guerreiro vs. Mago) com painéis feitos com a lib `rich`.
 
-[🔗 Ver repositório](https://github.com/SEU-USUARIO/Python-Poo-studies)
+[🔗 Ver repositório](https://github.com/d-almeidas/Python-Poo-studies)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ SQL Estudos
-`SQL` `SQLite`
 
-Teoria e exercícios do curso "Aprenda SQL - Primeiras Magias na Linguagem" (Téo Me Why): SELECT, WHERE, GROUP BY, JOINs, CASE WHEN, subqueries e mais.
-
-[🔗 Ver repositório](https://github.com/SEU-USUARIO/sql-estudos)
-
-</td>
-<td width="50%" valign="top">
 
 ### 🚧 Próximo projeto
 `Em construção`
@@ -168,11 +130,11 @@ Aqui vai entrar meu primeiro projeto usando Python + banco de dados + API. Fique
 
 ---
 
-## ♡ CONTRIBUTION GARDEN
+## - CONTRIBUTION GARDEN
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=dark&hide_border=true&background=0d1117&ring=ff4d94&fire=ff4d94&currStreakLabel=ff4d94" alt="streak do GitHub" />
+<img src="https://streak-stats.demolab.com?user=d-almeidas&theme=dark&hide_border=true&background=0d1117&ring=ff4d94&fire=ff4d94&currStreakLabel=ff4d94" alt="streak do GitHub" />
 
 </div>
 
@@ -182,10 +144,10 @@ Aqui vai entrar meu primeiro projeto usando Python + banco de dados + API. Fique
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU-INSTAGRAM)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+<!-- LinkedIn: adicionar aqui quando criar a conta -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d.aires._)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neaa01111@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d-almeidas)
 
 <br>
 
