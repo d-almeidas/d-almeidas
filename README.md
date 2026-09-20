@@ -142,7 +142,7 @@ My first project using a database will go here. Stay tuned!
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=d-almeidas&theme=dark&hide_border=true&background=0d1117&ring=6e7681&fire=6e7681&currStreakLabel=6e7681" alt="GitHub streak" />
+<img src="https://raw.githubusercontent.com/d-almeidas/d-almeidas/output/github-snake-dark.svg" alt="Snake eating my GitHub contributions" width="100%" />
 
 </div>
 
