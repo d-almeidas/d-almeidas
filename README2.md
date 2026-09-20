@@ -25,7 +25,7 @@ Estou me preparando para começar a faculdade de **Ciência da Computação**, e
 
 ### Objetivo
 
-Me especializar em engenharia de dados, buscando crescimento profissional e uma base sólida em **Python**, **SQL/PostgreSQL**, **APIs**, pipelines de **ETL/ELT** e ferramentas como **Airflow** e **Docker**. No momento, estou fortalecendo meus conhecimentos em SQL, antes de avançar para APIs, orquestração de pipelines e containerização.
+Me especializar em engenharia de dados, buscando crescimento profissional e uma base sólida em **Python**, **SQL/PostgreSQL**, **APIs**, pipelines de **ETL/ELT** e ferramentas como **Airflow** e **Docker**. No momento, estou fortalecendo meus conhecimentos.
 
 ---
 
@@ -35,18 +35,16 @@ Me especializar em engenharia de dados, buscando crescimento profissional e uma 
 
 **Linguagens**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![POO](https://img.shields.io/badge/POO-6E7681?style=for-the-badge&logo=databricks&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python" height="56" alt="Python" />
+<img src="poo.svg" height="56" alt="POO" />
 
 **Bancos de Dados**
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=sqlite" height="56" alt="SQL" />
 
 **Desenvolvimento**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="56" alt="Git, GitHub e VS Code" />
 
 </div>
 
@@ -61,9 +59,9 @@ Me especializar em engenharia de dados, buscando crescimento profissional e uma 
 ### Programação
 
 ```
-Python      ███████░░░  base + POO
-POO         █████░░░░░  praticando
-Git/GitHub  ██████░░░░  uso no dia a dia
+Python      ███████░░░  experiência
+POO         ██████████  concluído
+Git/GitHub  ██████░░░░  experiência
 APIs        ░░░░░░░░░░  em breve
 ```
 
@@ -73,7 +71,7 @@ APIs        ░░░░░░░░░░  em breve
 ### Dados
 
 ```
-SQL         ███░░░░░░░  aprendendo
+SQL         ███░░░░░░░  experiência
 PostgreSQL  ░░░░░░░░░░  em breve
 Pandas      ░░░░░░░░░░  em breve
 ```
