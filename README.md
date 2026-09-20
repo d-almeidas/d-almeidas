@@ -1,86 +1,86 @@
 <div align="center">
 
-<img src="banner.svg" alt="Daniel - Aspirante a Engenheiro de Dados" width="100%" />
+<img src="banner.svg" alt="Daniel - Aspiring Data Engineer" width="100%" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=d-almeidas&label=VISITAS%20AO%20PERFIL&color=6e7681&style=for-the-badge" alt="visitas ao perfil" />
+<img src="https://komarev.com/ghpvc/?username=d-almeidas&label=PROFILE%20VIEWS&color=6e7681&style=for-the-badge" alt="profile views" />
 
 </div>
 
 ---
 
-## Sobre mim
+## About me
 
-Oi, eu sou o **Daniel**.
+Hi, I'm **Daniel**.
 
-Estou me preparando para começar a faculdade de **Ciência da Computação**, estudando antes para chegar com uma base sólida. Sou aspirante a **Engenheiro de Dados**, focado em construir pipelines de dados confiáveis.
+I'm getting ready to start a **Computer Science** degree, studying beforehand so I arrive with a solid foundation. I'm an aspiring **Data Engineer**, focused on building reliable data pipelines.
 
-**Meu foco atual:**
+**Current focus:**
 
-- 🐍 Python: programação orientada a objetos (herança, abstração, classes)
-- 🗄️ SQL: consultas, agregações, JOINs e modelagem, usando SQLite
-- 📊 Dados: aprender a extrair e organizar informação de bancos de dados, base para os futuros pipelines de ETL/ELT
-- 🔀 Versionamento com Git e GitHub
+- 🐍 Python: object-oriented programming (inheritance, abstraction, classes)
+- 🗄️ SQL: queries, aggregations, JOINs and modeling, using SQLite
+- 📊 Data: learning to extract and organize information from databases, the foundation for future ETL/ELT pipelines
+- 🔀 Version control with Git and GitHub
 
-### Objetivo
+### Goal
 
-Me especializar em engenharia de dados, buscando crescimento profissional e uma base sólida em **Python**, **SQL/PostgreSQL**, **APIs**, pipelines de **ETL/ELT** e ferramentas como **Airflow** e **Docker**. No momento, estou fortalecendo meus conhecimentos.
+I want to specialize in data engineering, aiming for professional growth and a solid foundation in **Python**, **SQL/PostgreSQL**, **APIs**, **ETL/ELT** pipelines and tools like **Airflow** and **Docker**. Right now, I'm strengthening my knowledge.
 
 ---
 
-## Tecnologias
+## Technologies
 
 <div align="center">
 
-**Linguagens**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python" height="56" alt="Python" />
-<img src="poo.svg" height="56" alt="POO" />
+<img src="poo.svg" height="48" alt="OOP" />
 
-**Bancos de Dados**
+**Databases**
 
 <img src="https://skillicons.dev/icons?i=sqlite" height="56" alt="SQL" />
 
-**Desenvolvimento**
+**Development**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="56" alt="Git, GitHub e VS Code" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="56" alt="Git, GitHub and VS Code" />
 
 </div>
 
 ---
 
-## Meu stack
+## My stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Programação
+### Programming
 
 ```
-Python      ███████░░░  experiência
-POO         ██████████  concluído
-Git/GitHub  ██████░░░░  experiência
-APIs        ░░░░░░░░░░  em breve
+Python      ███████░░░  experience
+OOP         ██████████  completed
+Git/GitHub  ██████░░░░  experience
+APIs        ░░░░░░░░░░  coming soon
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### Dados
+### Data
 
 ```
-SQL         ███░░░░░░░  experiência
-PostgreSQL  ░░░░░░░░░░  em breve
-Pandas      ░░░░░░░░░░  em breve
+SQL         ███░░░░░░░  experience
+PostgreSQL  ░░░░░░░░░░  coming soon
+Pandas      ░░░░░░░░░░  coming soon
 ```
 
 </td>
 </tr>
 </table>
 
-### Próximos passos
+### Next steps
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -89,14 +89,14 @@ Pandas      ░░░░░░░░░░  em breve
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
-`ETL / ELT` · `Pipelines de dados` · `Docker` · `Airflow`
+`ETL / ELT` · `Data pipelines` · `Docker` · `Airflow`
 
 ---
 
-## Projetos
+## Projects
 
 <div align="center">
-<i>Alguns dos projetos que representam minha jornada de aprendizado.</i>
+<i>Some of the projects that represent my learning journey.</i>
 </div>
 
 <br>
@@ -105,32 +105,32 @@ Pandas      ░░░░░░░░░░  em breve
 <tr>
 <td width="50%" valign="top">
 
-### RPG de Turnos
-`Python` `POO`
+### Turn-Based RPG
+`Python` `OOP`
 
-Jogo de RPG de turnos no terminal, feito com programação orientada a objetos: classes `Personagem`, `Guerreiro` e `Mago`, herança, classe abstrata e sistema de turnos. A interface usa painéis e tabelas da lib `rich`.
+A turn-based RPG game for the terminal, built with object-oriented programming: `Personagem`, `Guerreiro` and `Mago` classes (character, warrior and mage), inheritance, an abstract class and a turn system. The interface uses panels and tables from the `rich` library.
 
-[Ver código →](https://github.com/d-almeidas/Python-Poo-studies/blob/main/Poo-Exercices/RPG!!!!!!.py)
+[View code →](https://github.com/d-almeidas/Python-Poo-studies/blob/main/Poo-Exercices/RPG!!!!!!.py)
 
 </td>
 <td width="50%" valign="top">
 
-### Python POO Studies
-`Python` `POO`
+### Python OOP Studies
+`Python` `OOP`
 
-Exercícios de orientação a objetos com herança, abstração e classes.
+Object-oriented programming exercises covering inheritance, abstraction and classes.
 
-[Ver repositório →](https://github.com/d-almeidas/Python-Poo-studies)
+[View repository →](https://github.com/d-almeidas/Python-Poo-studies)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### Próximo projeto
-`Em construção`
+### Next project
+`Work in progress`
 
-Aqui vai entrar meu primeiro projeto usando banco de dados. Fique de olho!
+My first project using a database will go here. Stay tuned!
 
 </td>
 </tr>
@@ -142,24 +142,24 @@ Aqui vai entrar meu primeiro projeto usando banco de dados. Fique de olho!
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=d-almeidas&theme=dark&hide_border=true&background=0d1117&ring=6e7681&fire=6e7681&currStreakLabel=6e7681" alt="streak do GitHub" />
+<img src="https://streak-stats.demolab.com?user=d-almeidas&theme=dark&hide_border=true&background=0d1117&ring=6e7681&fire=6e7681&currStreakLabel=6e7681" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## Vamos conversar?
+## Let's talk?
 
 <div align="center">
 
-<!-- LinkedIn: adicionar aqui quando criar a conta -->
+<!-- LinkedIn: add here when the account is created -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d.aires._)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neaa01111@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d-almeidas)
 
 <br>
 
-`Python` · `SQL` · `Dados` · `Aprendizado contínuo`
+`Python` · `SQL` · `Data` · `Continuous learning`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e7681,100:0d1117&height=100&section=footer" alt="footer" />
 
