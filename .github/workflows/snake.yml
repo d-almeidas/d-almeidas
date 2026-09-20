@@ -6,13 +6,12 @@ on:
     - cron: "0 */12 * * *"
   # permite rodar na mão (aba Actions > Run workflow)
   workflow_dispatch:
-  # roda quando você atualizar o README ou este arquivo
+  # roda quando você editar este arquivo
   push:
     branches:
       - main
     paths:
       - ".github/workflows/snake.yml"
-      - ".github/scripts/add_progress_bar.py"
 
 permissions:
   contents: write
@@ -33,7 +32,59 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#e6edf3&color_dots=#161b22,#2d333b,#444c56,#636e7b,#8b949e
 
       - name: Add progress bar
-        run: python3 .github/scripts/add_progress_bar.py dist/github-snake-dark.svg
+        run: |
+          python3 - <<'PY'
+          import re
+          import sys
+
+          path = "dist/github-snake-dark.svg"
+          TRACK = "#21262d"  # fundo da barra
+          FILL = "#8b949e"   # parte preenchida
+
+          svg = open(path, encoding="utf-8").read()
+
+          # duração total da animação (o snk escreve algo como "83700ms linear infinite")
+          m = re.search(r"(\d+)ms linear infinite", svg)
+          duration = int(m.group(1)) if m else 20000
+
+          # área do desenho: viewBox="x y largura altura"
+          vb = re.search(r'viewBox="(-?[\d.]+) (-?[\d.]+) ([\d.]+) ([\d.]+)"', svg)
+          if not vb:
+              sys.exit("viewBox não encontrado, barra não adicionada")
+          x0, y0, w, h = (float(v) for v in vb.groups())
+
+          bar_x = 0
+          bar_w = w + 2 * x0   # largura da grade de contribuições
+          bar_h = 6
+          extra = 24           # espaço novo embaixo para a barra
+          bar_y = y0 + h + 8
+
+          svg = svg.replace(vb.group(0), f'viewBox="{x0:g} {y0:g} {w:g} {h + extra:g}"', 1)
+          root = re.match(r"<svg[^>]*>", svg).group(0)
+          novo_root = re.sub(
+              r'height="([\d.]+)"',
+              lambda mm: f'height="{float(mm.group(1)) + extra:g}"',
+              root,
+              count=1,
+          )
+          svg = svg.replace(root, novo_root, 1)
+
+          keyframes = "@keyframes pb{from{transform:scaleX(0)}to{transform:scaleX(1)}}"
+          svg = svg.replace("</style>", keyframes + "</style>", 1)
+
+          barra = (
+              f'<g>'
+              f'<rect x="{bar_x}" y="{bar_y}" width="{bar_w}" height="{bar_h}" rx="3" fill="{TRACK}"/>'
+              f'<rect x="{bar_x}" y="{bar_y}" width="{bar_w}" height="{bar_h}" rx="3" fill="{FILL}" '
+              f'style="transform-box:fill-box;transform-origin:left center;'
+              f'animation:pb {duration}ms linear infinite"/>'
+              f'</g>'
+          )
+          svg = svg.replace("</svg>", barra + "</svg>")
+
+          open(path, "w", encoding="utf-8").write(svg)
+          print(f"barra adicionada: {duration} ms")
+          PY
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
