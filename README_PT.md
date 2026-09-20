@@ -142,7 +142,7 @@ Aqui vai entrar meu primeiro projeto usando banco de dados. Fique de olho!
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=d-almeidas&theme=dark&hide_border=true&background=0d1117&ring=6e7681&fire=6e7681&currStreakLabel=6e7681" alt="streak do GitHub" />
+<img src="https://raw.githubusercontent.com/d-almeidas/d-almeidas/output/github-snake-dark.svg?v=2" alt="Cobrinha comendo minhas contribuições do GitHub" width="100%" />
 
 </div>
 
