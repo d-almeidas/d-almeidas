@@ -71,7 +71,7 @@ APIs        ░░░░░░░░░░  coming soon
 ### Data
 
 ```
-SQL         ███░░░░░░░  experience
+SQLite      ██████████  completed
 PostgreSQL  ░░░░░░░░░░  coming soon
 Pandas      ░░░░░░░░░░  coming soon
 ```
@@ -115,22 +115,12 @@ A turn-based RPG game for the terminal, built with object-oriented programming: 
 </td>
 <td width="50%" valign="top">
 
-### Python OOP Studies
-`Python` `OOP`
+### Customer Behavioral Feature Store
+`SQL` `Python`
 
-Object-oriented programming exercises covering inheritance, abstraction and classes.
+A customer behavioral profile table built in SQLite: CTEs, window functions and conditional aggregation to compute transaction volume, points balance, most-used product, and most active weekday/time-of-day across multiple time windows (7/14/28/56 days), plus a recent-vs-lifetime engagement score.
 
-[View repository →](https://github.com/d-almeidas/Python-Poo-studies)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### Next project
-`Work in progress`
-
-My first project using a database will go here. Stay tuned!
+[View code →](https://github.com/d-almeidas/SQL---Studies/blob/main/exercicos/Projeto/Projeto.sql)
 
 </td>
 </tr>
