@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=d-almeidas&label=VISITAS%20AO%20PERFIL&color=6e7681&style=for-the-badge" alt="visitas ao perfil" />
+<img src="https://komarev.com/ghpvc/?username=d-almeidas&label=PROFILE%20VIEWS&color=6e7681&style=for-the-badge" alt="profile views" />
 
 </div>
 
@@ -12,20 +12,20 @@
 
 ## Sobre mim
 
-Oi, eu sou o **Daniel**.
+Olá, eu sou o **Daniel**.
 
-Estou me preparando para começar a faculdade de **Ciência da Computação**, estudando antes para chegar com uma base sólida. Sou aspirante a **Engenheiro de Dados**, focado em construir pipelines de dados confiáveis.
+Estou me preparando para começar a faculdade de **Ciência da Computação**, estudando antes para chegar com uma boa bagagem. Sou aspirante a **Engenheiro de Dados**, focado em construir pipelines de dados confiáveis.
 
 **Meu foco atual:**
 
 - 🐍 Python: programação orientada a objetos (herança, abstração, classes)
 - 🗄️ SQL: consultas, agregações, JOINs e modelagem, usando SQLite
-- 📊 Dados: aprender a extrair e organizar informação de bancos de dados, base para os futuros pipelines de ETL/ELT
-- 🔀 Versionamento com Git e GitHub
+- 📊 Dados: aprendendo a extrair e organizar informações de bancos de dados, a base para futuros pipelines de ETL/ELT
+- 🔀 Controle de versão com Git e GitHub
 
 ### Objetivo
 
-Me especializar em engenharia de dados, buscando crescimento profissional e uma base sólida em **Python**, **SQL/PostgreSQL**, **APIs**, pipelines de **ETL/ELT** e ferramentas como **Airflow** e **Docker**. No momento, estou fortalecendo meus conhecimentos.
+Quero me especializar em engenharia de dados, buscando crescimento profissional e uma base sólida em **Python**, **SQL/PostgreSQL**, **APIs**, pipelines de **ETL/ELT** e ferramentas como **Airflow** e **Docker**. No momento, estou reforçando meus conhecimentos.
 
 ---
 
@@ -38,7 +38,7 @@ Me especializar em engenharia de dados, buscando crescimento profissional e uma 
 <img src="https://skillicons.dev/icons?i=python" height="56" alt="Python" />
 <img src="poo.svg" height="48" alt="POO" />
 
-**Bancos de Dados**
+**Bancos de dados**
 
 <img src="https://skillicons.dev/icons?i=sqlite" height="56" alt="SQL" />
 
@@ -71,7 +71,7 @@ APIs        ░░░░░░░░░░  em breve
 ### Dados
 
 ```
-SQL         ███░░░░░░░  experiência
+SQLite      ██████████  concluído
 PostgreSQL  ░░░░░░░░░░  em breve
 Pandas      ░░░░░░░░░░  em breve
 ```
@@ -105,32 +105,22 @@ Pandas      ░░░░░░░░░░  em breve
 <tr>
 <td width="50%" valign="top">
 
-### RPG de Turnos
+### RPG por Turnos
 `Python` `POO`
 
-Jogo de RPG de turnos no terminal, feito com programação orientada a objetos: classes `Personagem`, `Guerreiro` e `Mago`, herança, classe abstrata e sistema de turnos. A interface usa painéis e tabelas da lib `rich`.
+Um jogo de RPG por turnos para o terminal, feito com programação orientada a objetos: classes `Personagem`, `Guerreiro` e `Mago`, herança, uma classe abstrata e um sistema de turnos. A interface usa painéis e tabelas da biblioteca `rich`.
 
 [Ver código →](https://github.com/d-almeidas/Python-Poo-studies/blob/main/Poo-Exercices/RPG!!!!!!.py)
 
 </td>
 <td width="50%" valign="top">
 
-### Python POO Studies
-`Python` `POO`
+### Feature Store de Perfil Comportamental de Clientes
+`SQL` `Python`
 
-Exercícios de orientação a objetos com herança, abstração e classes.
+Uma tabela de perfil comportamental de clientes construída em SQLite: CTEs, window functions e agregação condicional para calcular volume de transações, saldo de pontos, produto mais usado, e dia da semana/período do dia mais ativos em múltiplas janelas de tempo (7/14/28/56 dias), além de um indicador de engajamento recente versus histórico.
 
-[Ver repositório →](https://github.com/d-almeidas/Python-Poo-studies)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### Próximo projeto
-`Em construção`
-
-Aqui vai entrar meu primeiro projeto usando banco de dados. Fique de olho!
+[Ver código →](https://github.com/d-almeidas/SQL---Studies/blob/main/exercicos/Projeto/Projeto.sql)
 
 </td>
 </tr>
@@ -138,11 +128,11 @@ Aqui vai entrar meu primeiro projeto usando banco de dados. Fique de olho!
 
 ---
 
-## Contribution garden
+## Jardim de contribuições
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/d-almeidas/d-almeidas/output/github-snake-dark.svg?v=2" alt="Cobrinha comendo minhas contribuições do GitHub" width="100%" />
+<img src="https://raw.githubusercontent.com/d-almeidas/d-almeidas/output/github-snake-dark.svg" alt="Cobrinha comendo minhas contribuições no GitHub" width="100%" />
 
 </div>
 
@@ -152,7 +142,7 @@ Aqui vai entrar meu primeiro projeto usando banco de dados. Fique de olho!
 
 <div align="center">
 
-<!-- LinkedIn: adicionar aqui quando criar a conta -->
+<!-- LinkedIn: adicionar aqui quando a conta for criada -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d.aires._)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neaa01111@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d-almeidas)
