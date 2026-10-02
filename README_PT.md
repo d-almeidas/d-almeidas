@@ -72,7 +72,7 @@ APIs        ░░░░░░░░░░  em breve
 
 ```
 SQLite      ██████████  concluído
-PostgreSQL  ░░░░░░░░░░  em breve
+PostgreSQL  ██████░░░░  experiência
 Pandas      ░░░░░░░░░░  em breve
 ```
 
