@@ -42,6 +42,7 @@ I want to specialize in data engineering, aiming for professional growth and a s
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=sqlite" height="56" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=postgres" height="56" alt="SQL" />
 
 **Development**
 
