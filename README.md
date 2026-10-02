@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Daniel - Aspiring Data Engineer" width="100%" />
+<img src="banner3.svg" alt="Daniel - Aspiring Data Engineer" width="100%" />
 
 <br><br>
 
