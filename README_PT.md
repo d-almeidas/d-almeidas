@@ -42,6 +42,7 @@ Quero me especializar em engenharia de dados, buscando crescimento profissional 
 **Bancos de dados**
 
 <img src="https://skillicons.dev/icons?i=sqlite" height="56" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=postgres" height="56" alt="SQL" />
 
 **Desenvolvimento**
 
