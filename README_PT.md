@@ -4,6 +4,7 @@
 
 <br><br>
 
+<img src="https://media.tenor.com/43T7J0ptyYUAAAAi/zelda-legend-of-zelda.gif" width="60" />
 <img src="https://komarev.com/ghpvc/?username=d-almeidas&label=PROFILE%20VIEWS&color=6e7681&style=for-the-badge" alt="profile views" />
 
 </div>
