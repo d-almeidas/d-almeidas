@@ -20,7 +20,7 @@ Estou me preparando para começar a faculdade de **Ciência da Computação**, e
 **Meu foco atual:**
 
 - 🐍 Python: programação orientada a objetos (herança, abstração, classes)
-- 🗄️ SQL: consultas, agregações, JOINs e modelagem, usando SQLite
+- 🗄️ SQL: consultas, agregações, JOINs e modelagem, usando Postgres
 - 📊 Dados: aprendendo a extrair e organizar informações de bancos de dados, a base para futuros pipelines de ETL/ELT
 - 🔀 Controle de versão com Git e GitHub
 
