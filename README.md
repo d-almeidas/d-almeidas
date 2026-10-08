@@ -20,7 +20,7 @@ I'm getting ready to start a **Computer Science** degree, studying beforehand so
 **Current focus:**
 
 - 🐍 Python: object-oriented programming (inheritance, abstraction, classes)
-- 🗄️ SQL: queries, aggregations, JOINs and modeling, using SQLite
+- 🗄️ SQL: queries, aggregations, JOINs and modeling, using Postgres
 - 📊 Data: learning to extract and organize information from databases, the foundation for future ETL/ELT pipelines
 - 🔀 Version control with Git and GitHub
 
