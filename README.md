@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="banner3.svg" alt="Daniel - Aspiring Data Engineer" width="100%" />
 
@@ -41,8 +41,8 @@ I want to specialize in data engineering, aiming for professional growth and a s
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=sqlite" height="56" alt="SQL" />
-<img src="https://skillicons.dev/icons?i=postgres" height="56" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="56" alt="SQLite" />
+<img src="https://skillicons.dev/icons?i=postgres" height="56" alt="PostgreSQL" />
 
 **Development**
 
@@ -60,11 +60,11 @@ I want to specialize in data engineering, aiming for professional growth and a s
 
 ### Programming
 
-```
+```text
 Python      ███████░░░  experience
 OOP         ██████████  completed
 Git/GitHub  ██████░░░░  experience
-APIs        ░░░░░░░░░░  coming soon
+APIs        ██████░░░░  hands-on
 ```
 
 </td>
@@ -72,7 +72,7 @@ APIs        ░░░░░░░░░░  coming soon
 
 ### Data
 
-```
+```text
 SQLite      ██████████  completed
 PostgreSQL  ██████████  completed
 Pandas      ░░░░░░░░░░  coming soon
@@ -107,6 +107,16 @@ Pandas      ░░░░░░░░░░  coming soon
 <tr>
 <td width="50%" valign="top">
 
+### Weather ETL Pipeline
+`Python` `REST API` `PostgreSQL` `ETL`
+
+A weather data pipeline that fetches data from the free Open-Meteo API, transforms and validates temperature readings, and loads the results into PostgreSQL while avoiding duplicate observations. Includes retry handling for API failures.
+
+[View code →](https://github.com/d-almeidas/weather-etl)
+
+</td>
+<td width="50%" valign="top">
+
 ### Turn-Based RPG
 `Python` `OOP`
 
@@ -115,10 +125,12 @@ A turn-based RPG game for the terminal, built with object-oriented programming: 
 [View code →](https://github.com/d-almeidas/Python-Poo-studies/blob/main/Poo-Exercices/RPG!!!!!!.py)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Customer Behavioral Feature Store
-`SQL` `Python`
+`SQL` `SQLite`
 
 A customer behavioral profile table built in SQLite: CTEs, window functions and conditional aggregation to compute transaction volume, points balance, most-used product, and most active weekday/time-of-day across multiple time windows (7/14/28/56 days), plus a recent-vs-lifetime engagement score.
 
@@ -147,7 +159,7 @@ A customer behavioral profile table built in SQLite: CTEs, window functions and 
 <!-- LinkedIn: add here when the account is created -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d.aires._)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neaa01111@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d-almeidas)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/d-almeidas)
 
 <br>
 
