@@ -1,11 +1,11 @@
-<div align="center">
+ <div align="center">
 
-<img src="banner.svg" alt="Daniel - Aspirante a Engenheiro de Dados" width="100%" />
+<img src="banner3.svg" alt="Daniel - Futuro Engenheiro de Dados" width="100%" />
 
 <br><br>
 
 <img src="https://media.tenor.com/43T7J0ptyYUAAAAi/zelda-legend-of-zelda.gif" width="60" />
-<img src="https://komarev.com/ghpvc/?username=d-almeidas&label=PROFILE%20VIEWS&color=6e7681&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=d-almeidas&label=VISUALIZAÇÕES%20DO%20PERFIL&color=6e7681&style=for-the-badge" alt="Visualizações do perfil" />
 
 </div>
 
@@ -15,18 +15,18 @@
 
 Olá, eu sou o **Daniel**.
 
-Estou me preparando para começar a faculdade de **Ciência da Computação**, estudando antes para chegar com uma boa bagagem. Sou aspirante a **Engenheiro de Dados**, focado em construir pipelines de dados confiáveis.
+Estou me preparando para ingressar no curso de **Ciência da Computação**, estudando antecipadamente para começar a graduação com uma boa base de conhecimento. Sou um aspirante a **Engenheiro de Dados**, com foco na construção de pipelines de dados confiáveis.
 
-**Meu foco atual:**
+**Foco atual:**
 
-- 🐍 Python: programação orientada a objetos (herança, abstração, classes)
-- 🗄️ SQL: consultas, agregações, JOINs e modelagem, usando Postgres
-- 📊 Dados: aprendendo a extrair e organizar informações de bancos de dados, a base para futuros pipelines de ETL/ELT
+- 🐍 Python: programação orientada a objetos (herança, abstração e classes)
+- 🗄️ SQL: consultas, agregações, JOINs e modelagem de dados com PostgreSQL
+- 📊 Dados: aprendendo a extrair e organizar informações de bancos de dados, construindo a base para futuros pipelines ETL/ELT
 - 🔀 Controle de versão com Git e GitHub
 
 ### Objetivo
 
-Quero me especializar em engenharia de dados, buscando crescimento profissional e uma base sólida em **Python**, **SQL/PostgreSQL**, **APIs**, pipelines de **ETL/ELT** e ferramentas como **Airflow** e **Docker**. No momento, estou reforçando meus conhecimentos.
+Quero me especializar em engenharia de dados, buscando crescimento profissional e uma base sólida em **Python**, **SQL/PostgreSQL**, **APIs**, pipelines **ETL/ELT** e ferramentas como **Airflow** e **Docker**. No momento, estou aprofundando meus conhecimentos e desenvolvendo minhas habilidades na área.
 
 ---
 
@@ -37,12 +37,12 @@ Quero me especializar em engenharia de dados, buscando crescimento profissional 
 **Linguagens**
 
 <img src="https://skillicons.dev/icons?i=python" height="56" alt="Python" />
-<img src="poo.svg" height="48" alt="POO" />
+<img src="poo.svg" height="48" alt="Programação Orientada a Objetos" />
 
 **Bancos de dados**
 
-<img src="https://skillicons.dev/icons?i=sqlite" height="56" alt="SQL" />
-<img src="https://skillicons.dev/icons?i=postgres" height="56" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="56" alt="SQLite" />
+<img src="https://skillicons.dev/icons?i=postgres" height="56" alt="PostgreSQL" />
 
 **Desenvolvimento**
 
@@ -52,7 +52,7 @@ Quero me especializar em engenharia de dados, buscando crescimento profissional 
 
 ---
 
-## Meu stack
+## Minha stack
 
 <table>
 <tr>
@@ -60,11 +60,11 @@ Quero me especializar em engenharia de dados, buscando crescimento profissional 
 
 ### Programação
 
-```
-Python      ███████░░░  experiência
+```text
+Python      ███████░░░  em aprendizado
 POO         ██████████  concluído
-Git/GitHub  ██████░░░░  experiência
-APIs        ░░░░░░░░░░  em breve
+Git/GitHub  ██████░░░░  em aprendizado
+APIs        ██████░░░░  experiência prática
 ```
 
 </td>
@@ -72,10 +72,10 @@ APIs        ░░░░░░░░░░  em breve
 
 ### Dados
 
-```
+```text
 SQLite      ██████████  concluído
 PostgreSQL  ██████████  concluído
-Pandas      ░░░░░░░░░░  em breve
+Pandas      ░░░░░░░░░░  próximos passos
 ```
 
 </td>
@@ -107,20 +107,32 @@ Pandas      ░░░░░░░░░░  em breve
 <tr>
 <td width="50%" valign="top">
 
-### RPG por Turnos
-`Python` `POO`
+### Pipeline ETL de Clima
+`Python` `API REST` `PostgreSQL` `ETL`
 
-Um jogo de RPG por turnos para o terminal, feito com programação orientada a objetos: classes `Personagem`, `Guerreiro` e `Mago`, herança, uma classe abstrata e um sistema de turnos. A interface usa painéis e tabelas da biblioteca `rich`.
+Um pipeline de dados meteorológicos que coleta informações da API gratuita Open-Meteo, transforma e valida as leituras de temperatura e carrega os resultados no PostgreSQL, evitando observações duplicadas. Inclui tratamento de falhas da API com novas tentativas automáticas.
 
-[Ver código →](https://github.com/d-almeidas/Python-Poo-studies/blob/main/Poo-Exercices/RPG!!!!!!.py)
+[Ver código →](https://github.com/d-almeidas/weather-etl)
 
 </td>
 <td width="50%" valign="top">
 
-### Feature Store de Perfil Comportamental de Clientes
-`SQL` `Python`
+### RPG por Turnos
+`Python` `POO`
 
-Uma tabela de perfil comportamental de clientes construída em SQLite: CTEs, window functions e agregação condicional para calcular volume de transações, saldo de pontos, produto mais usado, e dia da semana/período do dia mais ativos em múltiplas janelas de tempo (7/14/28/56 dias), além de um indicador de engajamento recente versus histórico.
+Um jogo de RPG por turnos executado no terminal, desenvolvido com programação orientada a objetos. Utiliza as classes `Personagem`, `Guerreiro` e `Mago`, além de herança, uma classe abstrata e um sistema de turnos. A interface utiliza painéis e tabelas da biblioteca `rich`.
+
+[Ver código →](https://github.com/d-almeidas/Python-Poo-studies/blob/main/Poo-Exercices/RPG!!!!!!.py)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Feature Store de Comportamento de Clientes
+`SQL` `SQLite`
+
+Uma tabela de perfil comportamental de clientes desenvolvida em SQLite. Utiliza CTEs, funções de janela e agregações condicionais para calcular o volume de transações, o saldo de pontos, o produto mais utilizado e o dia da semana e período do dia com maior atividade. Considera diferentes janelas de tempo (7, 14, 28 e 56 dias) e inclui um indicador de engajamento recente em comparação ao histórico completo.
 
 [Ver código →](https://github.com/d-almeidas/SQL---Studies/blob/main/exercicos/Projeto/Projeto.sql)
 
@@ -134,7 +146,7 @@ Uma tabela de perfil comportamental de clientes construída em SQLite: CTEs, win
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/d-almeidas/d-almeidas/output/github-snake-dark.svg" alt="Cobrinha comendo minhas contribuições no GitHub" width="100%" />
+<img src="https://raw.githubusercontent.com/d-almeidas/d-almeidas/output/github-snake-dark.svg" alt="Cobra percorrendo minhas contribuições no GitHub" width="100%" />
 
 </div>
 
@@ -146,13 +158,13 @@ Uma tabela de perfil comportamental de clientes construída em SQLite: CTEs, win
 
 <!-- LinkedIn: adicionar aqui quando a conta for criada -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d.aires._)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neaa01111@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d-almeidas)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neaa01111@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/d-almeidas)
 
 <br>
 
 `Python` · `SQL` · `Dados` · `Aprendizado contínuo`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e7681,100:0d1117&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e7681,100:0d1117&height=100&section=footer" alt="Rodapé" />
 
 </div>
